@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/PratikSarkar1123/PratikSarkar1123/blob/main/Pratik%20Sarkar.png)
 <h1 align="center">Hi 👋, I'm Pratik Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
