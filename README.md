@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pratik Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksarkar1123&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksarkar1123" /> </p>
 
 - 🌱 I’m currently learning **React JS , Node JS**
