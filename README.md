@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pratik-sarkar-b9a723244/](https://www.linkedin.com/in/pratik-sarkar-b9a723244/)
 
-- ⚡ Fun fact **Coding is *not* my thing :)**
+- ⚡ Fun fact **Coding is *now* my thing :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
